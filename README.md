@@ -1,10 +1,10 @@
-# Pikunikku - Sticker Catalogue
+# Pikunikku - Sticker Catalogue [Module 2]
 
 <img src="./Assets/PikunikkuLogoCircle.png" alt="Pikunikku Logo" style="height: 300px; width: 300px;"/>
 
 ## Site
 
-Visit the deployed project at: [Pikunikku Sticker Catalogue](https://revou-fsse-5.github.io/module-1-ciceiy/)
+Visit the deployed project at: [Pikunikku Sticker Catalogue](https://revou-fsse-5.github.io/module-2-ciceiy/)
 
 ## About
 
